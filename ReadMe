@@ -1,1 +1,12 @@
+- Players: Typically 2 — you vs. computer (or another player).
+- Choices: Each player picks one of three:
+- 🪨 Rock
+- 📄 Paper
+- ✂️ Scissors
+- Winning Logic:
+- Rock crushes Scissors 🪨 > ✂️
+- Scissors cuts Paper ✂️ > 📄
+- Paper covers Rock 📄 > 🪨
+- Draw Condition:
+- If both players choose the same item, it’s a draw.
 
